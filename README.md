@@ -1,7 +1,11 @@
-repository-name
-# Repository Name
+home-assistant-remote-control
+# Home Assistant Remote Control
 
-Based on "ABC" at https://www.abc.com/
+Based on "Geniale FERNBEDIENUNG für HOME ASSISTANT mit Drehregler und Touchscreen (ESPHome)" at https://www.youtube.com/watch?v=4dE7YONEYVk
+
+Based on "Home Assistant Fernbedienung: Jetzt auch für climate, cover, mediaplayer & mehr (M5 Dial UPDATE)" at https://www.youtube.com/watch?v=7TZfAWmYNzo
+
+Based on "M5 Stack Dial - Custom Component for ESPHome" at https://github.com/SmartHome-yourself/m5-dial-for-esphome
 
 ## 100 - Introduction
 
